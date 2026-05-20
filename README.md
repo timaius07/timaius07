@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## I'm Marco Cambronero
 
 Backend & Fullstack Developer focused on:
